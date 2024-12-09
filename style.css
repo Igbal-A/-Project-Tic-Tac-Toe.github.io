@@ -1,0 +1,28 @@
+body {
+    margin: 0 10% 0 10%;
+}
+
+.container-game {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__buttons {
+    width: 525px;
+    height: 525px;
+
+    display: flex;
+}
+
+.result {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+button {
+    width: 173px;
+    height: 173px;
+
+}
